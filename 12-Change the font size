@@ -1,3 +1,9 @@
+First Paragraph has a red color and font size 14 px
+2nd Pa. has font size 0f 14 px only
+
+
+
+
 <style>
   .red-text {
     color: red;
@@ -9,5 +15,7 @@
 
 <h2 class="red-text">CatPhotoApp</h2>
 
-<p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</p>
-<p class="red-text">Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
+<p>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, 
+hairball run catnip eat the grass sniff.</p>
+<p class="red-text">Purr jump eat the grass rip the couch scratched sunbathe, 
+shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.</p>
